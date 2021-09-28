@@ -1,0 +1,12 @@
+.float-container {
+    
+    padding: 50px;
+    display: inline-block;
+}
+
+.float-child {
+    width: 200px;
+    float: left;
+    padding: 20px;
+    
+}  
